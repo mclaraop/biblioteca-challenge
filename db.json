@@ -1,0 +1,70 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "Uma pitada de sorte",
+      "preco": "29,90",
+      "imagem": "imagens/umapitadadesorte-capa.jpeg"
+    },
+    {
+      "id": "2",
+      "nome": "Amor e sorte",
+      "preco": "29,90",
+      "imagem": "imagens/amoresorte-capa.jpeg"
+    },
+    {
+      "id": "3",
+      "nome": "Amor e azeitonas",
+      "preco": "29,90",
+      "imagem": "imagens/amoreazeitonas-capa.jpeg"
+    },
+    {
+      "id": "4",
+      "nome": "Por lugares incríveis",
+      "preco": "29,90",
+      "imagem": "imagens/porlugaresincriveis-capa.jpeg"
+    },
+    {
+      "id": "5",
+      "nome": "Amor e gelato",
+      "preco": "29,90",
+      "imagem": "imagens/amoregelato-capa.jpeg"
+    },
+    {
+      "id": "6",
+      "nome": "Eu e esse meu coração",
+      "preco": "29,90",
+      "imagem": "imagens/eueessemeucoracao-capa.jpeg"
+    },
+    {
+      "id": "7",
+      "nome": "O garoto do cachecol vermelho",
+      "preco": "29,90",
+      "imagem": "imagens/ogaroto-capa.jpeg"
+    },
+    {
+      "id": "8",
+      "nome": "A biblioteca da meia-noite",
+      "preco": "29,90",
+      "imagem": "imagens/abiblioteca-capa.jpeg"
+    },
+    {
+      "id": "9",
+      "nome": "Orgulho e preconceito",
+      "preco": "29,90",
+      "imagem": "imagens/orgulhoepreconceito-capa.jpeg"
+    },
+    {
+      "id": "4024",
+      "nome": "O diário de Anne Frank",
+      "preco": "R$49,90",
+      "imagem": "https://i.zst.com.br/thumbs/12/12/10/48176495.jpg"
+    },
+    {
+      "id": "34ac",
+      "nome": "Talvez um dia",
+      "preco": "R$38,90",
+      "imagem": "https://imagens.disal.com.br/produtos/ampliada/4073430.jpg"
+    }
+  ]
+}
